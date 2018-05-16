@@ -1,0 +1,2 @@
+
+include nettest/network/Makefile
